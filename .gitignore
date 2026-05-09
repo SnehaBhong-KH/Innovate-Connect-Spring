@@ -1,0 +1,25 @@
+# Java / Spring Boot
+backend/target/
+backend/*.class
+backend/*.jar
+backend/*.war
+.mvn/wrapper/maven-wrapper.jar
+
+# Node / React
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.log
+.DS_Store
+
+# Temporary files
+maven_path_debug.txt
+students_debug.txt
+students_schema.txt
+users_debug.txt
+error_log_*.txt

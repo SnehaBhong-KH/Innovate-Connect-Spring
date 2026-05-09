@@ -1,0 +1,9 @@
+Team member images should be placed in this directory:
+
+Required files:
+- 250840320199 (1).png (Sneha Bhong)
+- SomaVasudev.jpg (Soma Vasudev)  
+- 250840320101.png (Mohini Kasar)
+- WhatsApp Image 2026-01-02 at 1.30.54 PM.jpeg (Purva Thavai)
+
+Please add the actual image files to this directory.
