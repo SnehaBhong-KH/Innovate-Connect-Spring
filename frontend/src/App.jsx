@@ -1,3 +1,4 @@
+// Forced redeploy to bake in VITE_API_BASE_URL
 import { BrowserRouter as Router, Routes, Route, useLocation, Link, Navigate } from 'react-router-dom';
 import { AuthProvider, useAuth } from './context/AuthContext';
 import { motion } from 'framer-motion';
